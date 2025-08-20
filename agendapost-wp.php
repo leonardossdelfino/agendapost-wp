@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Post Expiration
+ * Plugin Name: AgendaPost - Post Expiration
  * Description: Permite definir uma data de expiração para posts, retirando-os do ar automaticamente.
  * Version: 1.0
- * Author: Seu Nome
+ * Author: Leonardo Delfino
  */
 
 // Previne acesso direto
